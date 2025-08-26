@@ -7,18 +7,24 @@ public class DespachoApp {
 
 
         // Datos del vehículo
+
+
+        // Solicita la marca del vehículo al usuario
         System.out.print("Ingrese la marca: ");
         String marca = sc.nextLine();
 
+        // Solicita el modelo del vehículo al usuario
         System.out.print("Ingrese el modelo: ");
         String modelo = sc.nextLine();
 
+        // Solicita el tipo de combustible del vehículo al usuario
         System.out.print("Ingrese el tipo de combustible: ");
         String combustible = sc.nextLine();
 
-
+        // Solicita la capacidad de pasajeros del vehículo al usuario
         System.out.print("Ingrese la capacidad en pasajeros: ");
         int capacidad = 0;
+        // aqui se transforma el numero ingresado en un int
         try {
             capacidad = Integer.parseInt(sc.nextLine());
         } catch (NumberFormatException e) {
@@ -70,6 +76,8 @@ public class DespachoApp {
         System.out.println("La distancia de despacho es: " + distanciaDespacho + " km");
         System.out.println("El costo de despacho es: $" + costoDespacho);
         System.out.println("------------------------------------------");
+        sc.close();
+
 
     }
 }
