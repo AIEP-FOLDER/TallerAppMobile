@@ -53,8 +53,15 @@ Este proyecto corresponde a la actividad formativa de la semana 3 del Taller de 
 
 - Como desarrollador, quiero que el programa sea modular, claro y ejecutable desde la terminal, para facilitar pruebas y mantenimiento.
 
+---
+## 📐 Reglas de Negocio
 
-
+| Total de Compra | Distancia | Costo por km | Resultado |
+|-----------------|-----------|--------------|-----------|
+| ≥ $50.000       | ≤ 20 km   | $0           | Despacho gratuito |
+| $25.000 - $49.999 | Cualquier | $150         | Costo proporcional |
+| < $25.000       | Cualquier | $300         | Costo elevado |
+---
 
 ## 🧠 Documentación del Proceso
 

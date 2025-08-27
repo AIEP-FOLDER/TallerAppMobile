@@ -1,4 +1,4 @@
-# 📱 Taller de Aplicaciones Móviles — AIEP 2024
+# 📱 Taller de Aplicaciones Móviles — AIEP 2025
 
 Repositorio académico que documenta el desarrollo progresivo de proyectos, ejercicios y reflexiones correspondientes al Taller de Aplicaciones Móviles. Cada semana se aborda una temática específica, integrando buenas prácticas de arquitectura, validación, experiencia de usuario y despliegue.
 
@@ -61,13 +61,3 @@ Apasionado por la arquitectura modular, la experiencia humana y el impacto tecno
 ✅ En desarrollo activo  
 
 ---
-
-## 🤝 Contribuciones
-
-Este repositorio es personal y académico, pero abierto a feedback técnico o pedagógico. Si tienes sugerencias, puedes abrir un issue o contactarme directamente.
-
----
-
-## 🧾 Licencia
-
-Este proyecto está bajo la licencia MIT. Puedes reutilizar el contenido citando la fuente.
